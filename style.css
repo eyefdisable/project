@@ -1,0 +1,249 @@
+
+body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    
+}
+.header {
+    background-image: url(phon.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.contaier {
+    width: 100%;
+    height: 100px;
+    
+    position: relative;
+    justify-content: center;
+    
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+
+
+
+.buy-button {
+    background-color: #FF7400; 
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+
+   
+
+
+
+
+
+  
+  
+  .container {
+    text-align: center;
+    display: flex;
+    align-items: center;
+  }
+  .text-container {
+    margin-left: 20px; 
+}
+.pirog {
+    width: 225px;
+    height: 235px;
+    display:block;
+    margin: 0 0 0;
+}
+
+
+
+
+.header-line {
+    padding-top: 35px;
+    
+}
+.nav-item {
+    color : #fff;
+    text-decoration: none;
+    font-weight: 200;
+    font-size: 24px;
+    margin-right: 0px;
+    padding-left: 162px;
+    padding-top: 10px;
+    justify-content: space-between;
+    font-family: 'Inter', sans-serif;
+    
+    
+}
+
+
+
+
+.header-title {
+    color: #FFFFFF;
+    width: 570.25px;
+    height: 200px;
+    margin-bottom: 20px;
+    padding-left: 162px;
+    font-family: 'Inter', sans-serif;
+}
+
+.shop-now-button {
+    width: 207px;
+    height: 57px;
+    border-radius: 17px;
+    background-color:#B47B48;
+    color: #fff;
+    text-decoration:none;
+    
+   
+}
+.header-subtite {
+color: #FFFFFF;
+margin-top: 300px;
+text-align: center;
+
+
+}
+.centered-image {
+    display:block; 
+    margin: 0 auto;
+}
+.text {
+    margin-left: 15px;
+    color:#fff;
+    
+}
+    
+.images1 {
+    
+    position: absolute;
+    Width: 162px;
+height: 225px;
+top: 290px;
+left: 166px;
+
+    
+}
+.images2 {
+    
+    position: absolute;
+    justify-content: center;
+    width: 215px;
+    height: 225px;
+    top: 290px;
+    left: 900px;
+}
+.images3 {
+    
+    position: absolute;
+    margin: 0 0 0;
+    width: 235px;
+    height: 225px;
+    top: 280px;
+left: 1450px;
+   
+}
+.text1 {
+    position: absolute;
+    color:#fff;
+    padding-left: 340px;
+    padding-top: 350px;
+}
+.text2 {
+    position: absolute;
+    color:#fff;
+    padding-left: 1130px;
+    padding-top: 600px;
+    margin-top: 200px;
+}
+
+.text3 {
+    position: absolute;
+    color:#fff;
+    padding-left: 1670px;
+    padding-top: 280px;
+    
+}
+.our-menu {
+    text-align: center;
+    padding-left: 960px;
+    padding-top: 800px;
+}
+.bakery {
+    padding-left: 162px;
+font-weight: 200px;
+font-size: 70px;
+}
+.traditional-bakery {
+    width: 2730px;
+    height: 580;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+    
+
+
+
+.kolokolchik1 {
+    padding-top: 400px;
+}
+
+
+
+
+.card {
+    
+    
+    
+    height: 60px;
+    padding-top:  150px;
+}
+.cards-holder {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 150px;
+}
+
+
+.card-img {
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+}
+.card-title {
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+}
+.card-desk {
+        display: flex;
+        justify-content: center;
+        padding-top: 150px;
+}
+.card-image {
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+
+    
+    
+    
+
+}
+.also {
+    position: absolute;
+    left: 0px;
+    width: 2730px;
+    top: 1025px;
+}
+
+
+
+
+
